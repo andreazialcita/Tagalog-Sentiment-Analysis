@@ -15,7 +15,7 @@ This study explores the use of Finite State Automata (FSA) in lexicon-based sent
 
 <h2>Documents</h2>
 
-- [Source Code]
+- [Source Code](https://github.com/andreazialcita/Tagalog-Sentiment-Analysis/blob/main/Final_Proj_FSA_Model_Ver_1.ipynb)
 - [Presentation](https://github.com/andreazialcita/Tagalog-Sentiment-Analysis/blob/main/%5BFINAL%5D%20CSCI%20Final%20Project%20Report%20Sentiment%20Analysis.pdf)
 
 <h2>Concepts Used</h2>
