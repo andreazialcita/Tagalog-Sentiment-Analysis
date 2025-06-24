@@ -1,4 +1,4 @@
-<h1>Time Series</h1>
+<h1>Tagalog Sentiment Analysis using Finite State Automata</h1>
 
 <h2>Description</h2>
 
