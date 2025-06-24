@@ -4,7 +4,7 @@
 
 This project was group output for my junior-year Computer Simulation class. As part of the course requirement, we were free to creatively use any simulation model of our choice.
 
-Our work was recognized for its innovation, and we were subsequently invited to write a full paper and present the study at an international academic conference.
+Our project was well-received for its innovation, and we were subsequently invited by our professors to write a full paper and present the study at an international academic conference.
 
 Below is the description from our final project paper:
 
